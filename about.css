@@ -1,6 +1,7 @@
 .about-grid{
+    font-size: clamp(20px, 5vw, 30px);
     padding-top: 2%;
     padding-left: 1%;
     display: flex;
-    font-size: larger;
+
 }
